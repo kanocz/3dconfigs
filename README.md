@@ -11,3 +11,6 @@ Chitu board firmware format and also converts M73 to M2100/M2101 (for Qidi X-Max
 Part of output image format code "converted" from python from https://github.com/alkaes/QidiPrint/blob/master/ChituCodeWriter.py .
 Can be used as output filter directly.
 
+For snapmaker J1 tool for auto-upload https://github.com/kanocz/j1upload can be used as well as
+https://github.com/macdylan/Snapmaker2Slic3rPostProcessor post processor (be sure to put uploader
+as the last post-processing script).
